@@ -7,11 +7,11 @@ package prob1;
 public class BasketballPlayer {
 
 	/**
-	 * The name of the basketball player.
+	 * The name of the basketball player is Pete.
 	 */
 	private String name;
 	/**
-	 * The number of free throws attempted.
+	 * The number of free throws attempted is 7.
 	 */
 //	private int freeThrowsAttempted = 0;
 	private int freeThrowsAttempted;
